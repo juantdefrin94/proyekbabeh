@@ -1,0 +1,20 @@
+0 1 1 Jarum Coklat
+0 1 1 Jarum Super
+0 1 1 Surya Pro
+0 1 1 Marlboro Putih
+0 1 1 Marlboro Hitam
+0 1 1 Samsu Refil
+0 1 1 Samsu Kretek
+0 1 1 Signature
+0 1 1 LA Bold
+0 1 1 Garfit
+0 1 1 Magnum Hitam
+0 1 1 Kapal Api
+0 1 1 Luwak
+0 1 1 Indocafe
+0 1 1 Good day
+0 1 1 ABC Susu
+0 1 1 Nutrisari
+0 1 1 Chocolatos Drink
+0 1 1 Soffel
+20 2500 3000 Mie Kuah

@@ -1,0 +1,25 @@
+10 13000 14000 Jarum Coklat
+3 17200 18000 Jarum Super
+3 19800 21000 Surya Pro
+0 28000 29000 Marlboro Putih
+0 28000 29000 Marlboro Hitam
+0 19500 21000 Samsu Refil
+0 16200 17500 Samsu Kretek
+1 16200 17500 Signature
+1 25000 26000 LA Bold
+1 17300 19000 Garfit
+0 11700 13000 Sampoerna Kretek
+0 16500 18000 Magnum Hitam
+109 1017 1250 Kapal Api
+0 1100 1250 Luwak
+10 1200 1500 Indocafe
+0 1100 1250 Good day
+10 1100 1250 ABC Susu
+20 1050 1250 Nutrisari
+0 1 1 Chocolatos Drink
+12 459 625 Soffel
+20 2350 2750 Mie Kuah
+20 2475 3000 Mie Goreng
+13 417 500 Shampoo
+0 1200 1500 Energen
+6 1250 1500 S Kental Manis
